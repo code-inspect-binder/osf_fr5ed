@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/fr5ed_src")' >> /home/jovyan/.Rprofile
